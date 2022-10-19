@@ -1,0 +1,6 @@
+O Git é um sistema de gerenciamento de código distribuído. Um sistema distribuído é aquele que possui múltiplas cópias de si mesmo em diferentes locais
+Link para Download do Git: https://gitforwindows.org/
+Comandos:
+git init - Inicializa o git 
+git add - inicia o versionamento
+git commit - cria um commit
